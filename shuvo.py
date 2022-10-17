@@ -1703,7 +1703,7 @@ pip install bs4 mechanize requests
 
 rm -rf IMPERIAL
 
-git clone https://github.com/Hunter-alamin/IMPERIAL
+git clone https://github.com/Shazahn-howladear/IMPERIAL
 
 cd IMPERIAL
 
@@ -1720,7 +1720,7 @@ pip install bs4 mechanize requests
 
 rm -rf IMPERIAL
 
-git clone https://github.com/Hunter-alamin/IMPERIAL
+git clone https://github.com/Shazahn-howladear/IMPERIAL
 
 cd IMPERIAL
 
